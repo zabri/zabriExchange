@@ -1,2 +1,2 @@
 # zabriExchange
-DApp University Crypto Exchange Project 
+A Crypto Exchange Project 
